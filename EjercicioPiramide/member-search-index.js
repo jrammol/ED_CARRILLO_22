@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ejerciciosClase","c":"PiramideBase10","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ejerciciosClase","c":"PiramideBase10","l":"PiramideBase10()","u":"%3Cinit%3E()"}];updateSearchResults();
